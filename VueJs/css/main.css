@@ -1,0 +1,16 @@
+body {
+    background: #fff;
+    font-size: 16px;
+}
+h1 {
+    font-size: 1.1rem;
+    background-color: lightblue;
+    padding: 5px;
+}
+h2 {
+    font-size: 0.9rem;
+}
+article {
+    width: 500px;
+    margin: 0 auto;
+}
