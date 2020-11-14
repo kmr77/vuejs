@@ -8,5 +8,3 @@
         }
     }); 
 })();
-
-//https://github.com/kmr77/vuejs.git
